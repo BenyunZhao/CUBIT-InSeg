@@ -62,3 +62,16 @@ doi = {https://doi.org/10.1016/j.autcon.2026.106980},
 author = {Benyun Zhao and Jihan Zhang and Yijun Huang and Xi Chen and Ben M. Chen}
 }
 ```
+
+```BibTex
+@article{cubit-det,
+title = {High-resolution infrastructure defect detection dataset sourced by unmanned systems and validated with deep learning},
+journal = {Automation in Construction},
+volume = {163},
+pages = {105405},
+year = {2024},
+issn = {0926-5805},
+doi = {https://doi.org/10.1016/j.autcon.2024.105405},
+author = {Benyun Zhao and Xunkuai Zhou and Guidong Yang and Junjie Wen and Jihan Zhang and Jia Dou and Guang Li and Xi Chen and Ben M. Chen},
+}
+```
