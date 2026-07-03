@@ -75,3 +75,14 @@ doi = {https://doi.org/10.1016/j.autcon.2024.105405},
 author = {Benyun Zhao and Xunkuai Zhou and Guidong Yang and Junjie Wen and Jihan Zhang and Jia Dou and Guang Li and Xi Chen and Ben M. Chen},
 }
 ```
+
+```BibTex
+@INPROCEEDINGS{CUPID,
+booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)}, 
+title={Lightweight Yet High-Performance Defect Detector for Uav-Based Large-Scale Infrastructure Real-Time Inspection}, 
+year={2025},
+pages={13675-13682},
+doi={10.1109/ICRA55743.2025.11127758}
+author={Zhao, Benyun and Duan, Qigeng and Yang, Guidong and Tang, Jerry and Song, Zhenbo and Wen, Junjie and Liu, Xuchen and Li, Qingxiang and Lei, Lei and Zhang, Jihan and Chen, Xi and Mueller, Mark W. and Chen, Ben M.},
+}
+```
