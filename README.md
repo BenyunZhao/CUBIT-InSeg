@@ -18,7 +18,6 @@ More information about dataset extension and can access at our benchmark challen
 <div style=" text-align: center; font-size: 21px;">
 CUBIT-InSeg dataset can be available at: 
 </div>
-
 <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
 <a href="https://pan.baidu.com/s/1OV9-K3d-a0i5Sv5coa9EgQ" style="color: white; text-decoration: none;">BaiduNet; </a> 
 </button> (Password: 3gw2)
