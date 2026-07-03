@@ -18,13 +18,14 @@ More information about dataset extension and can access at our benchmark challen
 <div style=" text-align: center; font-size: 21px;">
 CUBIT-InSeg dataset can be available at: 
 </div>
+
+<button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
+<a href="https://pan.baidu.com/s/1OV9-K3d-a0i5Sv5coa9EgQ" style="color: white; text-decoration: none;">BaiduNet</a> 
+</button> (Password: 3gw2)
+
 <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
 <a href="https://drive.google.com/drive/folders/1FmRUgr6Wqg5_OP33lZ0cqbiy1D5y67oD?usp=sharing" style="color: white; text-decoration: none;">Google Drive; </a> 
 </button>
-
-<button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
-<a href="https://mycuhk-my.sharepoint.com/:f:/g/personal/1155145791_link_cuhk_edu_hk/IgCe3BQI5PlzSop_Lug4hvzKAaQn_h2ICpYIfY2GeAIvYPA?e=7ZWkx2" style="color: white; text-decoration: none;">OneDrive</a> 
-</button> (Password of Onedrive link: cubit-inseg)
 
 
 <div style="text-align: center; font-family: 'American Typewriter'; font-weight: 400; "> 
