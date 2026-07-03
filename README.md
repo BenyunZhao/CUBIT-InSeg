@@ -20,11 +20,11 @@ CUBIT-InSeg dataset can be available at:
 </div>
 
 <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
-<a href="https://pan.baidu.com/s/1OV9-K3d-a0i5Sv5coa9EgQ" style="color: white; text-decoration: none;">BaiduNet</a> 
+<a href="https://pan.baidu.com/s/1OV9-K3d-a0i5Sv5coa9EgQ" style="color: white; text-decoration: none;">BaiduNet; </a> 
 </button> (Password: 3gw2)
 
 <button style="background-color: #000000; color: white; margin: 0 auto; padding: 10px 15px;border: none; border-radius: 5px;">
-<a href="https://drive.google.com/drive/folders/1FmRUgr6Wqg5_OP33lZ0cqbiy1D5y67oD?usp=sharing" style="color: white; text-decoration: none;">Google Drive; </a> 
+<a href="https://drive.google.com/drive/folders/1HqS0rMWgwsy70TbaZYFqwzgFxLL_hp_b?usp=sharing" style="color: white; text-decoration: none;">Google Drive </a> 
 </button>
 
 
